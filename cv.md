@@ -1,6 +1,6 @@
 # Shubich Viktar
 
- ![markdown logo](https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8&sxsrf=AOaemvLBQbl2A367v0xo5ewUYmcsa_NGTg:1631037905364&tbm=isch&source=iu&ictx=1&fir=YpoI8CfGWzIXnM%252C1fs8sSJXUJGajM%252C_&vet=1&usg=AI4_-kShyXZlo49L8oUe-4yN6B1ugk_iUQ&sa=X&ved=2ahUKEwjgldvXue3yAhWGzqQKHbwnAEkQ9QF6BAgdEAE&biw=1920&bih=969#imgrc=YpoI8CfGWzIXnM)
+ ![markdown logo]()
 #### Male, 35 years, born on 28 November 1985
 ---
 # Contact information.
