@@ -7,7 +7,7 @@
 - Citizenship: Belarus, work permit at: Belarus
 - Ready to relocate, ready for business trips
 ---
-Desired position ## **"JS/Front-end developer"**
+Desired position ##"JS/Front-end developer"
 
 
 ### Work experience — 11 years.<br/>
