@@ -37,4 +37,4 @@ Selection of process parameters, writing validation documents - ESP / ESR, OQP /
 deviation, memo, MSA.
 Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
 deviation, investigation)
-
+## Key skills
