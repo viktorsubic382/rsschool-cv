@@ -1,7 +1,7 @@
-#1. Shubich Viktar
+# Shubich Viktar
 #### Male, 35 years, born on 28 November 1985
 ---
-2.
+# Contact information.
 - +375 (29) 7388638 — preferred means of communication
 - viktorsubic382@gmail.com
 - Reside in: Minsk
