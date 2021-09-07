@@ -14,15 +14,14 @@ Desired position
 
 ### Work experience — 11 years.<br/>
  **As Key Engineering**
-#### Technical department.
- Technical consultant.<br/>
+#### Technical consultant. <br/>
 Work in the field of procurement,tender purchases and supply of production and laboratory equipment
 (medical and microbiological equipment)., project creation and management in CRM systems. Consultation
 and selection of laboratory and production equipment according to the technical specifications of the
 customer. Take part in engineering projects (consultation, negotiations with customers) to equip
 productions with laboratory and measuring equipment, production lines. Commissioning and FAT/SAT
-performance.
-Unomedical Company
+performance.<br/>
+**Unomedical Company**
 Validation engineer
 Technical Department.
 Process validation of molding, extrusion, ultrasonic welding processes for medical devises (plastics
