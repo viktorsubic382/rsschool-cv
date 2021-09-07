@@ -7,11 +7,11 @@
 - Citizenship: Belarus, work permit at: Belarus
 - Ready to relocate, ready for business trips
 ---
-Desired position **"JS/Front-end developer"**
+Desired position ## **"JS/Front-end developer"**
 
 
 ### Work experience — 11 years.<br/>
- ** As Key Engineering **
+ **As Key Engineering**
 #### Technical department.
  Technical consultant.<br/>
 Work in the field of procurement,tender purchases and supply of production and laboratory equipment<br/>
