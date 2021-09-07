@@ -1,4 +1,6 @@
 # Shubich Viktar
+
+![markdown logo] (https://rabota.by/resume/9d222541ff0792f0290039ed1f584353667659)
 #### Male, 35 years, born on 28 November 1985
 ---
 # Contact information.
