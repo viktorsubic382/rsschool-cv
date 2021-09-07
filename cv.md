@@ -13,7 +13,7 @@ Desired position
 
 
 ### Work experience — 11 years.<br/>
- ### As Key Engineering
+ ### As Key Engineering Company
 #### Technical consultant. <br/>
 ##### Technical department. <br/>
 Work in the field of procurement,tender purchases and supply of production and laboratory equipment
