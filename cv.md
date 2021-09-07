@@ -10,9 +10,9 @@
 Desired position **"JS/Front-end developer"**
 
 
-###Work experience — 11 years.<br/>
- **As Key Engineering**
-####Technical department.
+### Work experience — 11 years.<br/>
+ ** As Key Engineering **
+#### Technical department.
  Technical consultant.<br/>
 Work in the field of procurement,tender purchases and supply of production and laboratory equipment<br/>
 (medical and microbiological equipment)., project creation and management in CRM systems. Consultation<br/>
