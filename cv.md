@@ -15,9 +15,9 @@ Desired position
  **As Key Engineering**
 #### Technical department.
  Technical consultant.<br/>
-Work in the field of procurement,tender purchases and supply of production and laboratory equipment<br/>
-(medical and microbiological equipment)., project creation and management in CRM systems. Consultation<br/>
-and selection of laboratory and production equipment according to the technical specifications of the<br/>
+Work in the field of procurement,tender purchases and supply of production and laboratory equipment
+(medical and microbiological equipment)., project creation and management in CRM systems. Consultation
+and selection of laboratory and production equipment according to the technical specifications of the
 customer. Take part in engineering projects (consultation, negotiations with customers) to equip
 productions with laboratory and measuring equipment, production lines. Commissioning and FAT/SAT
 performance.
