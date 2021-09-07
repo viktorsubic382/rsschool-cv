@@ -36,5 +36,14 @@ manufacturing.
 Selection of process parameters, writing validation documents - ESP / ESR, OQP / OQR, PQP / PQR,
 deviation, memo, MSA.
 Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
-deviation, investigation)
+deviation, investigation).
 ## Key skills
+- base of JS, HTML, CSS;
+- english (B1);
+## Education
+- Belarusian National Technical University, Minsk
+   - Mechanical Engineering Technology, Machines and technology of material processing by pressure
+- Belarusian National Technical University, Minsk
+    - Institute for Staff Training and Retraining on Management and Personnel, economics and management of
+industrial enterprises
+
