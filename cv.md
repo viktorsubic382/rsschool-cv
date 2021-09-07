@@ -1,6 +1,6 @@
 # Shubich Viktar
 
- ![Screenshot](582627037.jpeg)  
+ ![markdown logo](582627037.jpeg)  
 #### Male, 35 years, born on 28 November 1985
 ---
 # Contact information.
