@@ -10,7 +10,7 @@
 - Citizenship: Belarus, work permit at: Belarus
 - Ready to relocate, ready for business trips
 ---
-Desired position 
+*Desired position* 
 ## "JS/Front-end developer"
 
 
