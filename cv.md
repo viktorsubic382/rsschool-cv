@@ -51,6 +51,8 @@ function check(a,x) {<br/>
      return false<br/>
    }<br/>
   }<br/>
+  
+  https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/javascript
 
 ## Key skills.
 - base of JS, HTML, CSS;
