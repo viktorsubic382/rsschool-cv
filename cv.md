@@ -1,6 +1,6 @@
 # Shubich Viktar 
 ---
-![Image alt](https://github.com/viktorsubic382/rsschool-cv/upload/gh-pages)
+![Image alt](https://github.com/viktorsubic382/rsschool-cv/blob/gh-pages/582627037.jpeg)
 
 #### Male, 35 years, born on 28 November 1985
 
