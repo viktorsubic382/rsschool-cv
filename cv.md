@@ -33,6 +33,15 @@ Selection of parameters for the process of molding, extrusion and ultrasonic wel
 Participation in the acceptance of equipment (injection molding machines, injection molds, peripheral
 equipment) from the manufacturer (FAT), introduction of the production process for new products in
 manufacturing.
+### Code example:
+
+function check(a,x) {
+   if(a.includes(x)) {
+     return true
+   } else {
+     return false
+   }
+  }
 Selection of process parameters, writing validation documents - ESP / ESR, OQP / OQR, PQP / PQR,
 deviation, memo, MSA.
 Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
