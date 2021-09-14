@@ -32,7 +32,7 @@ processing) according to QMS ISO 13485, GMP and FDA standarts.
 Selection of parameters for the process of molding, extrusion and ultrasonic welding of plastics.
 Participation in the acceptance of equipment (injection molding machines, injection molds, peripheral
 equipment) from the manufacturer (FAT), introduction of the production process for new products in
-manufacturing.
+manufacturing.<br/>
 ### Code example:
 
 function check(a,x) {
