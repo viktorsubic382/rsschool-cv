@@ -38,13 +38,13 @@ Analysis of the causes of defective products production, report writing by resul
 deviation, investigation).<br/>
 ### Code example:
 
-function check(a,x) {
-   if(a.includes(x)) {
-     return true
-   } else {
-     return false
-   }
-  }
+function check(a,x) {<br/>
+   if(a.includes(x)) {<br/>
+     return true<br/>
+   } else {<br/>
+     return false<br/>
+   }<br/>
+  }<br/>
 
 ## Key skills
 - base of JS, HTML, CSS;
