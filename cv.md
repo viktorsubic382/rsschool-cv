@@ -11,7 +11,7 @@
 - Ready to relocate, ready for business trips
 ---
 ## Desired position.
- *"JS/Front-end developer"*
+ **"JS/Front-end developer"**
 
 
 ## Work experience — 11 years.<br/>
