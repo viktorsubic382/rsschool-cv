@@ -1,14 +1,7 @@
 # Shubich Viktar.
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-
 ![Image alt](https://github.com/viktorsubic382/rsschool-cv/blob/main/582627037.jpeg)
 
-{username} — ваш ник на ГитХабе;
-{repository} — репозиторий где хранятся картинки;
-{branch} — ветка репозитория;
-{path} — путь к месту нахождения картинки.
- ![markdown logo](582627037.jpeg)  
 #### Male, 35 years, born on 28 November 1985
 ---
 ## Contact information.
