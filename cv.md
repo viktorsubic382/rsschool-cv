@@ -1,9 +1,9 @@
-# Shubich Viktar ---
-
+# Shubich Viktar 
+---
 ![Image alt](https://github.com/viktorsubic382/rsschool-cv/blob/main/582627037.jpeg)
 
 #### Male, 35 years, born on 28 November 1985
----
+
 ## Contact information.
 - +375 (29) 7388638 — preferred means of communication
 - viktorsubic382@gmail.com
