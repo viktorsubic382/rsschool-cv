@@ -1,20 +1,20 @@
-# Shubich Viktar
+# Shubich Viktar.
 
  ![markdown logo](582627037.jpeg)  
 #### Male, 35 years, born on 28 November 1985
 ---
-### Contact information.
+## Contact information.
 - +375 (29) 7388638 — preferred means of communication
 - viktorsubic382@gmail.com
 - Reside in: Minsk
 - Citizenship: Belarus, work permit at: Belarus
 - Ready to relocate, ready for business trips
 ---
-*Desired position* 
-## "JS/Front-end developer"
+## Desired position.
+ *"JS/Front-end developer"*
 
 
-### Work experience — 11 years.<br/>
+## Work experience — 11 years.<br/>
  ### As Key Engineering Company
 #### Technical consultant. <br/>
 ##### Technical department. <br/>
@@ -36,7 +36,7 @@ manufacturing. Selection of process parameters, writing validation documents - E
 deviation, memo, MSA.
 Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
 deviation, investigation).<br/>
-### Code example:
+## Code example.
 
 function check(a,x) {<br/>
    if(a.includes(x)) {<br/>
@@ -46,7 +46,7 @@ function check(a,x) {<br/>
    }<br/>
   }<br/>
 
-## Key skills
+## Key skills.
 - base of JS, HTML, CSS;
 - english (B1);
 ## Education
