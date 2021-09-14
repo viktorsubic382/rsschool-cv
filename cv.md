@@ -32,7 +32,10 @@ processing) according to QMS ISO 13485, GMP and FDA standarts.
 Selection of parameters for the process of molding, extrusion and ultrasonic welding of plastics.
 Participation in the acceptance of equipment (injection molding machines, injection molds, peripheral
 equipment) from the manufacturer (FAT), introduction of the production process for new products in
-manufacturing.<br/>
+manufacturing. Selection of process parameters, writing validation documents - ESP / ESR, OQP / OQR, PQP / PQR,
+deviation, memo, MSA.
+Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
+deviation, investigation).<br/>
 ### Code example:
 
 function check(a,x) {
@@ -42,10 +45,7 @@ function check(a,x) {
      return false
    }
   }
-Selection of process parameters, writing validation documents - ESP / ESR, OQP / OQR, PQP / PQR,
-deviation, memo, MSA.
-Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
-deviation, investigation).
+
 ## Key skills
 - base of JS, HTML, CSS;
 - english (B1);
