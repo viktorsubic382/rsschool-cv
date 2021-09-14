@@ -1,4 +1,4 @@
-# Shubich Viktar__
+# Shubich Viktar_
 
 ![Image alt](https://github.com/viktorsubic382/rsschool-cv/blob/main/582627037.jpeg)
 
