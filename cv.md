@@ -2,7 +2,7 @@
 
 ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
 
-![Image alt](https://github.com/{viktorsubic382}/{rsschool-cv}/raw/{gh-pages}/{https://github.com/viktorsubic382/rsschool-cv/blob/main/582627037.jpeg}/image.png)
+![Image alt](https://github.com/viktorsubic382/rsschool-cv/blob/main/582627037.jpeg)
 
 {username} — ваш ник на ГитХабе;
 {repository} — репозиторий где хранятся картинки;
