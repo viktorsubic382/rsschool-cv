@@ -36,6 +36,12 @@ manufacturing. Selection of process parameters, writing validation documents - E
 deviation, memo, MSA.
 Analysis of the causes of defective products production, report writing by results of analysis (MEMO,
 deviation, investigation).<br/>
+### Izovac Company
+#### Mechanical engineer
+##### Department of linear vacuum equipment. Warranty and servise group.
+Warranty service of vacuum equipment in the countries of Southeast Asia (business trips to South Korea,China, Taiwan).
+Internship at ion-plasma equipment. English courses at school SOL Minsk, experience of spoken English on business trips.
+
 ## Code example.
 
 You will be given an array a and a value x. All you need to do is check whether the provided array contains the value.
@@ -56,11 +62,10 @@ function check(a,x) {<br/>
 
 ## Key skills.
 - base of JS, HTML, CSS;
-- english (B1);
+- English (B1);
 ## Education
 - Belarusian National Technical University, Minsk
    - Mechanical Engineering Technology, Machines and technology of material processing by pressure
 - Belarusian National Technical University, Minsk
     - Institute for Staff Training and Retraining on Management and Personnel, economics and management of
-industrial enterprises
-
+industrial enterprises.
